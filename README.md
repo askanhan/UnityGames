@@ -1,3 +1,3 @@
-# UnitityGames
+# Unity Games
 
-nah imma do my own thing
+games voor mijn stage (8 inclusief)
